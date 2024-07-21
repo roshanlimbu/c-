@@ -6,7 +6,7 @@ class swapString
     {
         string str1 = "Roshan";
         string str2 = "Limbu";
-        string temp; 
+        string temp;
         Console.WriteLine($"Before swapping: str1 = {str1}, str2 = {str2}");
 
         temp = str1;

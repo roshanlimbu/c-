@@ -1,0 +1,15 @@
+/home/roshan/Documents/dotNet/getterAndsetter/bin/Debug/net8.0/getterAndsetter
+/home/roshan/Documents/dotNet/getterAndsetter/bin/Debug/net8.0/getterAndsetter.deps.json
+/home/roshan/Documents/dotNet/getterAndsetter/bin/Debug/net8.0/getterAndsetter.runtimeconfig.json
+/home/roshan/Documents/dotNet/getterAndsetter/bin/Debug/net8.0/getterAndsetter.dll
+/home/roshan/Documents/dotNet/getterAndsetter/bin/Debug/net8.0/getterAndsetter.pdb
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/getterAndsetter.GeneratedMSBuildEditorConfig.editorconfig
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/getterAndsetter.AssemblyInfoInputs.cache
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/getterAndsetter.AssemblyInfo.cs
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/getterAndsetter.csproj.CoreCompileInputs.cache
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/getterAndsetter.sourcelink.json
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/getterAndsetter.dll
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/refint/getterAndsetter.dll
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/getterAndsetter.pdb
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/getterAndsetter.genruntimeconfig.cache
+/home/roshan/Documents/dotNet/getterAndsetter/obj/Debug/net8.0/ref/getterAndsetter.dll

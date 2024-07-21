@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mV8Ve6Ht1VATpRFr6s95LpxNeUjC/hbPLQsVptGEDhayBXvyKj/4szarEYWx9KHJFwK71r2rGwkCqZCpfbngg==",
+  "success": true,
+  "projectFilePath": "/home/roshan/Documents/dotNet/getterAndsetter/getterAndsetter.csproj",
+  "expectedPackageFiles": [
+    "/home/roshan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
