@@ -1,4 +1,0 @@
-dotnet new console -n projectDirName
-mv projectDirName.cs ConsoleAppName/programName.cs
-ConsoleAppName
-dotnet run
