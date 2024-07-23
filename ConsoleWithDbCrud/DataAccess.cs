@@ -49,17 +49,17 @@ namespace ConsoleWithDbCrud
             try
             {
                 con.Open();
-                cmd.CommandText = "SELECT * FROM Student";
+                cmd.CommandText = "SELECT Name, Id, Address, DoB, Gender FROM Student";
                 using (SqlDataReader reader = cmd.ExecuteReader())
                 {
                     while (reader.Read())
                     {
-                        Student student = new Student
+                        Student student = new Student();
                         {
                             Id = reader.GetInt32(0),
                             Name = reader.GetString(1),
-                            Address = reader.GetString(2),
-                            Gender = reader.GetString(3),
+                            Address => reader.GetString(2),
+                            Gender = reader.GetBoolean(3) ? "male" : "female",
                             DoB = reader.GetDateTime(4)
                         };
                         list.Add(student);

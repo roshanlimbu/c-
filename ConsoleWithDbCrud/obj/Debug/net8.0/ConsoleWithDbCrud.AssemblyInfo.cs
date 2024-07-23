@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleWithDbCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31552923059b72ade4c49b094da0ef48183f71cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d2cc8569e60c391ef830d8a4a8268f3fbbcd4bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleWithDbCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleWithDbCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

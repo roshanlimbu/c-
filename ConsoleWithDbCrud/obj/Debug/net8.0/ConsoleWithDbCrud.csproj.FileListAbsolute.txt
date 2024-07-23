@@ -1,0 +1,6 @@
+/home/roshan/Documents/dotNet/ConsoleWithDbCrud/obj/Debug/net8.0/ConsoleWithDbCrud.csproj.AssemblyReference.cache
+/home/roshan/Documents/dotNet/ConsoleWithDbCrud/obj/Debug/net8.0/ConsoleWithDbCrud.GeneratedMSBuildEditorConfig.editorconfig
+/home/roshan/Documents/dotNet/ConsoleWithDbCrud/obj/Debug/net8.0/ConsoleWithDbCrud.AssemblyInfoInputs.cache
+/home/roshan/Documents/dotNet/ConsoleWithDbCrud/obj/Debug/net8.0/ConsoleWithDbCrud.AssemblyInfo.cs
+/home/roshan/Documents/dotNet/ConsoleWithDbCrud/obj/Debug/net8.0/ConsoleWithDbCrud.csproj.CoreCompileInputs.cache
+/home/roshan/Documents/dotNet/ConsoleWithDbCrud/obj/Debug/net8.0/ConsoleWithDbCrud.sourcelink.json
